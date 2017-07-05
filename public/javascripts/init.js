@@ -1,6 +1,5 @@
 (function($){
   $(function(){
-    alert("Prova");
     $('.button-collapse').sideNav();
     $('.parallax').parallax();
 
